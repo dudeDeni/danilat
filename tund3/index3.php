@@ -25,7 +25,11 @@
   $picURL = "https://i.redd.it/4cvycsbiwla01.jpg";
   $picEXT = ".jpg";
   $picNUM = mt_rand(2,43)
+<<<<<<< HEAD
   //echo $picNUM;
+=======
+  //echo $picNUM
+>>>>>>> 9d682268e42b8e979334ee649dba2fa9b856c951
   $picFILE = $picURL .$picNUM .$picEXT;
   
 ?>
